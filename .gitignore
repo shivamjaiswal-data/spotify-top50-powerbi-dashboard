@@ -1,0 +1,10 @@
+*.pbix.bak
+*.pbix.lock
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+*.log
