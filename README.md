@@ -279,8 +279,8 @@ Peak Position = MIN('Top-50-world'[position])
 B.Sc. Mathematics | Data Analytics Enthusiast
 Currently upskilling in Power BI, Python, and Data Science
 
-- 📧 Connect on [LinkedIn](https://www.linkedin.com/in/shivam-jaiswal-608748312/) ← *add your LinkedIn URL here*
-- 📁 More projects on [GitHub](https://github.com/shivamjaiswal-data) ← *your GitHub profile link*
+- 📧 Connect on [LinkedIn](https://www.linkedin.com/in/shivam-jaiswal-608748312/) ← 
+- 📁 More projects on [GitHub](https://github.com/shivamjaiswal-data) 
 
 ---
 
