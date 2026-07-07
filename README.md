@@ -20,6 +20,7 @@ A 4-page interactive Power BI dashboard built on **18 months of daily Spotify Gl
 
 ---
 
+
 ## Project Overview
 
 | Detail | Value |
@@ -35,6 +36,31 @@ A 4-page interactive Power BI dashboard built on **18 months of daily Spotify Gl
 The goal was to go beyond basic "who has the most songs" charts and build insights that answer real questions — who *consistently ranks highest*, which artists are *growing vs fading*, which songs *dominated the longest*, and whether *explicit content* performs differently from clean songs.
 
 ---
+---
+
+## 📂 Project Structure
+
+```text
+spotify-global-top-50-dashboard/
+│
+├── 📁 dashboard/
+│   └── spotify_global_top50_dashboard.pbix     # Power BI dashboard
+│
+├── 📁 data/
+│   └── spotify-top-50-world.csv                # Source dataset
+│
+├── 📁 images/
+│   ├── indexing.png
+│   ├── overview.png
+│   ├── artist.png
+│   └── songs.png                               # Dashboard screenshots
+│
+├── 📁 sql/
+│   └── spotify_analysis_queries.sql            # SQL business queries
+│
+├── README.md
+
+```
 
 ## Dashboard Pages
 
